@@ -1,0 +1,1 @@
+testing adding a new file using the Github website interface; not using SmartGit from my PC.
