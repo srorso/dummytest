@@ -1,1 +1,5 @@
 That's me !
+used :
+git add ivan.txt
+git commit
+git push
