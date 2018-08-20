@@ -1,0 +1,7 @@
+And this is Peter !
+Using VS 2017 CE 15.8.1 GitHub tools :
+ - cloned dummytest into F:\GitHub-SDL-Test\dummytest
+ - created F:\GitHub-SDL-Test\dummytest\peter.txt (with the contents you are now reading)
+ - using the VS 2017 CE GitHub builtin entered the commit text : Peter commit + push test
+ - then clicked on the commit drop down, selecting commit + push 
+ - will afterwards verify this via the GitHub website
