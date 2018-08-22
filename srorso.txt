@@ -26,3 +26,6 @@ C:\common\github\dummytest>git commit
 [master 62534a8] Test commit by srorso
  1 file changed, 11 insertions(+)
  create mode 100644 srorso.txt
+
+
+Also used SmartGit 18.4 to update this file
