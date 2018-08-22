@@ -28,5 +28,7 @@ C:\common\github\dummytest>git commit
  create mode 100644 srorso.txt
 
 
-Also used SmartGit 18.4 to update this file  
+Also used SmartGit 18.4 to update this file
+
+Commit to local fork
 
