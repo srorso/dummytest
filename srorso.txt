@@ -1,0 +1,11 @@
+C:\common\github>git --version
+git version 2.14.1.windows.1
+
+C:\common\github>git clone https://github.com/SDL-Hercules-390/dummytest
+Cloning into 'dummytest'...
+remote: Counting objects: 27, done.
+remote: Compressing objects: 100% (21/21), done.
+remote: Total 27 (delta 7), reused 15 (delta 2), pack-reused 0
+Unpacking objects: 100% (27/27), done.
+
+
